@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rltea.github.io/sitemap.xml
